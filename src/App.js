@@ -66,7 +66,7 @@ clearCompleted = () =>{
     return (
       <div className="App">
         <div>
-        <h1>Todo App: MVP</h1>
+        <h1>Todo App:</h1>
         <TodoForm addItem={this.addItem}/>
       </div>
         <TodoList
